@@ -12,6 +12,7 @@
 		9F485B031EB62C8000CFE00A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F485B011EB62C8000CFE00A /* Main.storyboard */; };
 		9F485B051EB62C8000CFE00A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F485B041EB62C8000CFE00A /* Assets.xcassets */; };
 		9F485B081EB62C8000CFE00A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F485B061EB62C8000CFE00A /* LaunchScreen.storyboard */; };
+		9F485B101EB634E000CFE00A /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 9F485B0F1EB634E000CFE00A /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9F485B041EB62C8000CFE00A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F485B071EB62C8000CFE00A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F485B091EB62C8000CFE00A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F485B0F1EB634E000CFE00A /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				9F485AFF1EB62C8000CFE00A /* ViewController.swift */,
 				9F485B011EB62C8000CFE00A /* Main.storyboard */,
 				9F485B041EB62C8000CFE00A /* Assets.xcassets */,
+				9F485B0F1EB634E000CFE00A /* pokemon.csv */,
 				9F485B061EB62C8000CFE00A /* LaunchScreen.storyboard */,
 				9F485B091EB62C8000CFE00A /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				9F485B081EB62C8000CFE00A /* LaunchScreen.storyboard in Resources */,
 				9F485B051EB62C8000CFE00A /* Assets.xcassets in Resources */,
+				9F485B101EB634E000CFE00A /* pokemon.csv in Resources */,
 				9F485B031EB62C8000CFE00A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
